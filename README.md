@@ -41,11 +41,11 @@ npm install
 Go to OpenWeatherMap and sign up for a free API key.
 
 4. Configure the API Key
-In the project, navigate to src/weatherService.js. Replace the placeholder 'YOUR_OPENWEATHERMAP_API_KEY' with your actual API key:
+In the project, navigate to src/weatherService.js. Replace the placeholder '1635890035cbba097fd5c26c8ea672a1' with your actual API key:
 
 javascript
 Copy code
-const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';  // Replace with your OpenWeatherMap API key
+const API_KEY = '1635890035cbba097fd5c26c8ea672a1';  // Replace with your OpenWeatherMap API key
 5. Start the Expo Development Server
 Start the Expo app by running:
 
